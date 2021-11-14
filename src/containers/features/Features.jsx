@@ -4,28 +4,29 @@ import './features.css';
 
 const featuresData = [
   {
-    title: 'Improving end distrusts instantly',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    title: '90% Users agree',
+    text: 'Social media helps businesses build relationships and reach out to their targeted audience.',
   },
   {
-    title: 'Become the tended active',
-    text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
+    title: '63% Users think',
+    text: 'Employee posts on social media can change the relationships they have with their co-workers.',
   },
   {
-    title: 'Message or am nothing',
-    text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+    title: '79% Users think',
+    text: 'The major reason for employees to use social media during work hours is to take breaks from work.',
   },
   {
-    title: 'Really boy law county',
-    text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
+    title: '85% Users think',
+    text: 'Businesses being ',
   },
 ];
 
 const Features = () => (
   <div className="gpt3__features section__padding" id="features">
     <div className="gpt3__features-heading">
-      <h1 className="gradient__text">The Future is Now and You Just Need to Realize It. Step into Future Today. & Make it Happen.</h1>
-      <p>Request Early Access to Get Started</p>
+      <h1 className="gradient__text">Jobs and Businesses</h1>
+      <p>With social technologies becoming a given for organizations, more companies have started to integrate various social media platforms to connect and engage with their employees and the public.Social-media has become a powerful marketing tool for brand managers because of its interactive nature.</p>
+      <p>With social technologies becoming a given for organizations, more companies have started to integrate various social media platforms to connect and engage with their employees and the public.Social-media has become a powerful marketing tool for brand managers because of its interactive nature.</p>
     </div>
     <div className="gpt3__features-container">
       {featuresData.map((item, index) => (
