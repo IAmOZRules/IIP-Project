@@ -4,7 +4,6 @@
     justify-content: space-between;
     align-items: flex-start;
     flex-direction: row;
-
     margin: 1rem;
 }
 
@@ -17,7 +16,7 @@
 .gpt3__features-container__feature-title h1 {
     font-family: var(--font-family);
     font-weight: 800;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 24px;
     letter-spacing: -0.04em;
     color: #fff;
@@ -40,7 +39,7 @@
 .gpt3__features-container_feature-text p {
     font-family: var(--font-family);
     font-weight: 500;
-    font-size: 14px;
+    font-size: 15px;
     line-height: 24px;
     color: var(--color-text);
 }
@@ -50,12 +49,10 @@
         font-size: 14px;
         line-height: 22px;
     }
-
     .gpt3__features-container_feature-text p {
         font-size: 12px;
         line-height: 20px;
     }
-
     .gpt3__features-container__feature {
         margin: 1rem 0;
     }

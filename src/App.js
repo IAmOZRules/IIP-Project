@@ -1,7 +1,9 @@
 import React from 'react';
 
 import { Footer, Blog, Possibility, Features, WhatGPT3, Header } from './containers';
-import { CTA, Navbar } from './components';
+import { Navbar } from './components';
+
+import ScrollToTop from 'react-scroll-to-top';
 
 import './App.css';
 
@@ -14,9 +16,14 @@ const App = () => (
     <WhatGPT3 />
     <Features />
     <Possibility />
-    <CTA />
     <Blog />
     <Footer />
+    <ScrollToTop smooth
+      style={{
+        backgroundColor: 'white',
+        padding: '10px',
+     }}
+    />
   </div>
 );
 

@@ -1,0 +1,245 @@
+[{
+        "id": 1,
+        "htmlId": "jobs",
+        "domain": "Jobs and Businesses",
+        "text1": "With social technologies becoming a given for organizations, more companies have started to integrate various social media platforms to connect and engage with their employees and the public. Social media has become a powerful marketing tool for brand managers because of its interactive nature.",
+        "text2": "Social media is a great way for a potential employee to gain more insight into the work environment and how the company wishes to progress via the social media page of the company.",
+        "features": [{
+                "title": "90% Users agree",
+                "text": "Social media helps businesses build relationships and reach out to their targeted audience."
+            },
+            {
+                "title": "63% Users think",
+                "text": "Employee posts on social media can change the relationships they have with their co-workers."
+            },
+            {
+                "title": "79% Users think",
+                "text": "The major reason for employees to use social media during work hours is to take breaks from work."
+            },
+            {
+                "title": "85% Users think",
+                "text": "Businesses being omnipresent on social media has positive effects on their sales."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "htmlId": "pandemic",
+        "domain": "Pandemic",
+        "text1": "During the COVID-19 pandemic, repeated & detailed content about the virus, geographical statistics, and multiple sources of information led to chronic stress & confusion amongst the masses",
+        "text2": "The misinformation circulating on social media during the pandemic, became a threat to the public health, as some posts promoted medicines which had not been deemed safe for COVID-19 treatment, while others encouraged individuals to refuse a COVID-19 vaccination. This added another significant obstacle in the way of containing an already chaotic & deadly pandemic.",
+        "features": [{
+                "title": "90% Users agree",
+                "text": "Prominent social media figures like Donald Trump were a key contributor to the sharp increase in COVID-19 vaccine skepticism   ."
+            },
+            {
+                "title": "63% Users think",
+                "text": "Hence, we should take everything we read online, with a grain of salt & individually fact-check any piece of information, especially before sharing with others. Ensuring vigilance when it comes to consuming information can help contain the spread of misinformation"
+            },
+            {
+                "title": "79% Users think",
+                "text": "Studies done during the first phase of the COVID-19 pandemic found that between 0.2% and 28.8% of social media posts about COVID-19 could be classified as misinformation"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "htmlId": "education",
+        "domain": "Education",
+        "text1": "Social media is not only used by jobs & businesses but is also widely used by students in learning environments (especially during the pandemic). It has increased college students' satisfaction and rate of collaboration.",
+        "text2": "Students can easily talk or share data via various social media sites with the help of social media. They can also write blogs for teachers as well as for themselves to supplement their knowledge.  However, if not kept in check it can become a major distraction from their education and studies.",
+        "features": [{
+                "title": "45% Students",
+                "text": "Use social media for academic purposes for around 1-2 hours daily or have usage of more than 5 years."
+            },
+            {
+                "title": "14% Students",
+                "text": "Don’t use social media at all when it comes to education or have total usage of fewer than 2 years."
+            },
+            {
+                "title": "45% Students",
+                "text": "Have been using social media for more than 5 years."
+            },
+            {
+                "title": "40% Students",
+                "text": "Have been using social media for around 3-4 years."
+            },
+            {
+                "title": "14% Students",
+                "text": "Have been using social media for less than 2 years."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "htmlId": "health",
+        "domain": "Mental Health",
+        "text1": "Social platforms help us make connections. For some, this may boost their morale, strengthen the relationships with their friends & family and may even inspire them, seeing the works of others. On the other hand, excessive use of social media may fuel feelings like anxiety, depression, isolation, etc.",
+        "text2": "High social media usage can result in lower interaction and isolation from family, friends, & co-workers. For children, exposure to inappropriate content like violence and pornography is highly likely without the use of monitoring and parental control applications.",
+        "features": [{
+                "title": "50% Users",
+                "text": "See social media for more than 2hrs, 30 mins usually being the safe/reasonable limit."
+            },
+            {
+                "title": "30% Users",
+                "text": "Experienced Fear of Missing Out after using social media."
+            },
+            {
+                "title": "41.7% Users",
+                "text": "Report feeling depressed after using social media."
+            },
+            {
+                "title": "42% Users",
+                "text": "Have reported some cases of cyberbullying on social media."
+            },
+            {
+                "title": "75% Users",
+                "text": "Report being distracted from work because of social media."
+            },
+            {
+                "title": "83% Users",
+                "text": "Report some bad emotions after social media usage for an extended period."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "htmlId": "consumer",
+        "domain": "Consumer Behaviour",
+        "text1": "There are many ways consumers come to an informed decision before buying a product, such as Reddit forums, Instagram posts, and influencers on Twitter and Facebook. Research shows that many consumers decide whether to purchase a product within the first few minutes of viewing it on a social media site like Instagram, based on the recognition of the brand.",
+        "text2": "From the results, it is apparent that, on average, social media plays a vital role in influencing buying decisions and giving consumers quality information to make an informed purchase.",
+        "features": [{
+                "title": "56.3% Users",
+                "text": "56.3% of the people purchased products recommended by someone on social media once or twice."
+            },
+            {
+                "title": "28.1% Users",
+                "text": "28.1% of people have never considered recommendations for products."
+            },
+            {
+                "title": "29.7% Users",
+                "text": "29.7% trust online influencers the first time they see a product."
+            },
+            {
+                "title": "9.4% Users",
+                "text": "9.4%  don't trust online influencers the first time they see a product."
+            },
+            {
+                "title": "60.9% Users",
+                "text": "60.9% said that it depends on other factors as well."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "htmlId": "cyber",
+        "domain": "Cyber Crimes and Social Engineering",
+        "text1": "Some of the ads and marketing on social media which appear innocent are the key to cybercrimes such as financial frauds & identity theft, which rely on social engineering and a user clicking on a malicious link. Slowly & steadily these cybercrimes have found their way into the online lives of people & victims of these cyber-crimes suffer financially & mentally.",
+        "text2": "While cybersecurity experts are working day and night to ensure that the online experience stays safe for most of the users, it is not enough. We, the  consumers of social media need to be wary of different ways in which a bad actor could try to cause us financial, emotional or any other kind of harm via social engineering, phishing or other causes.",
+        "features": [{
+                "title": "52% Adults",
+                "text": "In India have no clue how to protect themselves from cybercrimes."
+            },
+            {
+                "title": "56% Adults",
+                "text": "In EU have experienced cybercrimes and scams in some or the other form as of January 2020."
+            },
+            {
+                "title": "85% of Computer Offences",
+                "text": "In 2020/21 compared to 2018/2019 as per the Office of National Statistics, UK."
+            },
+            {
+                "title": "$621.45 Millions in Loss",
+                "text": "In California as a result of cybercrimes in 2020."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "htmlId": "politics",
+        "domain": "Politics",
+        "text1": "social media has a profound effect on elections. Often, social media compounds with the mass media networks (such as cable television), by taking its messages and amplifying/reinforcing propagandas, resulting in partisan divides and polarization.",
+        "text2": "The US political scene is a good example of the impact social media has on politics. The active presence of national politicians and IT cells of political parties on platforms supports this argument. The US Capitol Riots were also a good example of how social media was used to incite violence amongst the masses to spread political propaganda.",
+        "features": [{
+                "title": "80% Users thought",
+                "text": "That social media platforms are being used for political advertisements and spreading propagandas."
+            },
+            {
+                "title": "80% Users also think",
+                "text": "That social media has helped politicians gain mass popularity and share their ideologies."
+            },
+            {
+                "title": "10% more young people voted in 2018 than in 2014",
+                "text": "31% of the youth voted for a party in 2018 comp to 21% in 2014."
+            },
+            {
+                "title": "47% Youth",
+                "text": "Received information about the 2018 elections via a social media platform."
+            },
+            {
+                "title": "68% First Time Voters in 2018",
+                "text": "Relied on social media to get their information about voting."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "htmlId": "entertainment",
+        "domain": "Entertainment",
+        "text1": "Social media has also grown to have a substantial impact on film and TV. People don’t go to cinemas; they watch YouTube or Netflix. They don’t buy albums; they stream music for free or from Spotify/Hotstar. They prefer to consume content in bite-sized nuggets over long continuous media. A funny 2-minute TikTok gets more views than a 2-hour movie.",
+        "text2": "People share their experiences of going to events and watching movies and TV shows on social media, which can tell us a lot about what is popular currently. These online conversations breach international boundaries and can truly represent a global opinion. But more importantly, these connections can influence another person’s behavior.",
+        "features": [{
+                "title": "70% Respondents",
+                "text": "Listened to music by an artist based on what a friend posted on a social networking site."
+            },
+            {
+                "title": "9 out of 10 People",
+                "text": "View social networking sites as a new form of entertainment."
+            },
+            {
+                "title": "More than HALF the Respondents Say",
+                "text": "Social media sites are important tastemakers in determining what to watch and buy."
+            },
+            {
+                "title": "1 in 3 Social Networkers",
+                "text": "Decided to see a movie in a theatre because of something they read on a social networking site."
+            },
+            {
+                "title": "Among the people who post about TV shows",
+                "text": "76% do so live and 51% do so to feel connected to others who might also be watching."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "htmlId": "use",
+        "domain": "Responsible Use of Social Media",
+        "text1": "One of the best benefits of social media is it allows people to easily stay connected through messaging, video chats, or photographs. Social media also provides so many platforms to express feelings, thoughts, and opinions. It’s a great way to explore and learn more about various interests and stay informed about current events",
+        "text2": "Along with the benefits of social media, risks and negative consequences can arise as well. Too much social media use can result in lower interaction with people in real life and inappropriate behavior such as bullying, slander, or sending/posting risky pictures can happen because a social media user has a false sense of security behind the screen.  Often people don’t consider that their digital footprint can last forever.",
+        "features": [{
+                "title": "72.3% Attendees think",
+                "text": "That social media could be misused to invade people’s privacy."
+            },
+            {
+                "title": "99.7% People strongly agree",
+                "text": "That social media could be a very useful tool for businesses - new and old. 0.3% opt for the traditional way."
+            },
+            {
+                "title": "77.9% People agree",
+                "text": "That most students waste their prime because of social media."
+            },
+            {
+                "title": "20.1% People think",
+                "text": "That the use of social media must be highly regulated among adolescents."
+            },
+            {
+                "title": "88.7% People think",
+                "text": "Social media is completely useless and a waste of time when it comes to looking at the bigger picture."
+            },
+            {
+                "title": "36.4% People agree",
+                "text": "That educational institutions must have the power to impose restrictions."
+            }
+        ]
+    }
+]
