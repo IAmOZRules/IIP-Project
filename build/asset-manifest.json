@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.294404ce.chunk.css",
+    "main.js": "/static/js/main.fca63ba9.chunk.js",
+    "main.js.map": "/static/js/main.fca63ba9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.166f362e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.166f362e.js.map",
+    "static/js/2.cdde6aa6.chunk.js": "/static/js/2.cdde6aa6.chunk.js",
+    "static/js/2.cdde6aa6.chunk.js.map": "/static/js/2.cdde6aa6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.294404ce.chunk.css.map": "/static/css/main.294404ce.chunk.css.map",
+    "static/js/2.cdde6aa6.chunk.js.LICENSE.txt": "/static/js/2.cdde6aa6.chunk.js.LICENSE.txt",
+    "static/media/ai.aa60586b.png": "/static/media/ai.aa60586b.png",
+    "static/media/logo.21d6168c.png": "/static/media/logo.21d6168c.png",
+    "static/media/possibility.525f13b6.png": "/static/media/possibility.525f13b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.166f362e.js",
+    "static/js/2.cdde6aa6.chunk.js",
+    "static/css/main.294404ce.chunk.css",
+    "static/js/main.fca63ba9.chunk.js"
+  ]
+}
