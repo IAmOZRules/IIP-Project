@@ -1,5 +1,5 @@
 # Impact of Social Media on Society
-### [Live Site](https://team-cosine.vercel.app/)
+### [Live Site](https://impactsocialmediasociety.netlify.app/)
 
 ## Introduction
-This website was created as one of the delivarables for the course PHY1901 - Introduction to Innovative Projects.
+This website was created as one of the delivarables for the course Mass Media And Society
