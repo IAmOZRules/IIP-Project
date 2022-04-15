@@ -5,20 +5,28 @@
         "text1": "With social technologies becoming a given for organizations, more companies have started to integrate various social media platforms to connect and engage with their employees and the public. Social media has become a powerful marketing tool for brand managers because of its interactive nature.",
         "text2": "Social media is a great way for a potential employee to gain more insight into the work environment and how the company wishes to progress via the social media page of the company.",
         "features": [{
-                "title": "90% Users agree",
+                "title": "94.5% Users agree",
                 "text": "Social media helps businesses build relationships and reach out to their targeted audience."
             },
             {
-                "title": "63% Users think",
+                "title": "70.9% Users think",
                 "text": "Employee posts on social media can change the relationships they have with their co-workers."
             },
             {
-                "title": "79% Users think",
+                "title": "78.2% Users think",
                 "text": "The major reason for employees to use social media during work hours is to take breaks from work."
             },
             {
-                "title": "85% Users think",
+                "title": "87.3% Users think",
                 "text": "Businesses being omnipresent on social media has positive effects on their sales."
+            },
+            {
+                "title": "89.1% Users think",
+                "text": "It is good for people to be able to view the work environment of the company they wish to apply for."
+            },
+            {
+                "title": "92.7% Users think",
+                "text": "Businesses sharing the experiences of people using their product on social media will help create a loyal following for their product."
             }
         ]
     },
