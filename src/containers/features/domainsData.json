@@ -5,20 +5,28 @@
         "text1": "With social technologies becoming a given for organizations, more companies have started to integrate various social media platforms to connect and engage with their employees and the public. Social media has become a powerful marketing tool for brand managers because of its interactive nature.",
         "text2": "Social media is a great way for a potential employee to gain more insight into the work environment and how the company wishes to progress via the social media page of the company.",
         "features": [{
-                "title": "90% Users agree",
+                "title": "94.5% Users agree",
                 "text": "Social media helps businesses build relationships and reach out to their targeted audience."
             },
             {
-                "title": "63% Users think",
+                "title": "70.9% Users think",
                 "text": "Employee posts on social media can change the relationships they have with their co-workers."
             },
             {
-                "title": "79% Users think",
+                "title": "78.2% Users think",
                 "text": "The major reason for employees to use social media during work hours is to take breaks from work."
             },
             {
-                "title": "85% Users think",
+                "title": "87.3% Users think",
                 "text": "Businesses being omnipresent on social media has positive effects on their sales."
+            },
+            {
+                "title": "89.1% Users think",
+                "text": "It is good for people to be able to view the work environment of the company they wish to apply for."
+            },
+            {
+                "title": "92.7% Users think",
+                "text": "Businesses sharing the experiences of people using their product on social media will help create a loyal following for their product."
             }
         ]
     },
@@ -77,27 +85,27 @@
         "text1": "Social platforms help us make connections. For some, this may boost their morale, strengthen the relationships with their friends & family and may even inspire them, seeing the works of others. On the other hand, excessive use of social media may fuel feelings like anxiety, depression, isolation, etc.",
         "text2": "High social media usage can result in lower interaction and isolation from family, friends, & co-workers. For children, exposure to inappropriate content like violence and pornography is highly likely without the use of monitoring and parental control applications.",
         "features": [{
-                "title": "50% Users",
+                "title": "46.8% Users",
                 "text": "See social media for more than 2hrs, 30 mins usually being the safe/reasonable limit."
             },
             {
-                "title": "30% Users",
+                "title": "40.3% Users",
                 "text": "Experienced Fear of Missing Out after using social media."
             },
             {
-                "title": "41.7% Users",
+                "title": "38.7% Users",
                 "text": "Report feeling depressed after using social media."
             },
             {
-                "title": "42% Users",
+                "title": "24.2% Users",
                 "text": "Have reported some cases of cyberbullying on social media."
             },
             {
-                "title": "75% Users",
+                "title": "83.9% Users",
                 "text": "Report being distracted from work because of social media."
             },
             {
-                "title": "83% Users",
+                "title": "69.4% Users",
                 "text": "Report some bad emotions after social media usage for an extended period."
             }
         ]
